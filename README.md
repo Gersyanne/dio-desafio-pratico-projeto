@@ -1,2 +1,4 @@
-# dio-desafio-pratico-projeto
-Primeira criacão de repositório de Projeto da DIO
+# Desafio Prático de Projeto da DIO
+Primeiro Repositório executando o aprendizado no curso.
+
+## [Java Downloads Sistemas Operacionais](https://www.java.com/pt-BR/download/manual.jsp)
